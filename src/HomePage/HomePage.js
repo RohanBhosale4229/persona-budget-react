@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 function HomePage() {
   return (
 <main className="center" id="main">
@@ -59,11 +57,6 @@ function HomePage() {
 
 
 
-    <article>
-
-          <canvas id="myChart" width="350" height="600"></canvas>
-
-    </article>
 
     <article>
 

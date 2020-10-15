@@ -1,0 +1,45 @@
+{
+    "myBudget":[
+
+    {
+        "title": "Eat Out",
+        "budget": 25
+    },
+    {
+        "title": "Rent",
+        "budget": 375
+    },
+    {
+        "title": "Grocery",
+        "budget": 110
+    },
+    {
+        "title": "Gas",
+        "budget": 300
+    },
+    {
+        "title":"Car Insurance",
+        "budget":200
+    },
+    {
+        "title":"Car Loan payment",
+        "budget":500
+    },
+    {
+        "title":"Student Loan",
+        "budget":250
+    },
+    {
+        "title":"Travel",
+        "budget":1000
+    },
+    {
+        "title":"Savings",
+        "budget":2000
+    },
+    {
+        "title":"Renters Insurance",
+        "budget":20
+    }
+]
+}
